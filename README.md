@@ -1,4 +1,4 @@
-﻿# Demo Calculator CPP (TCP)
+﻿# Demo Calculator CPP (TCP) [Async]
 
 ![Screenshot](/img/screen.png)
 
